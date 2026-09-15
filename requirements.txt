@@ -1,0 +1,6 @@
+opencv-python
+numpy
+pytesseract
+Pillow
+rapidfuzz
+customtkinter
